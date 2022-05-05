@@ -1,0 +1,42 @@
+.Products{
+    float: left;
+    background-image: url(./img/code.png);
+    background-blend-mode: multiply;
+    background-color: #4f1c75;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 100px 0;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+}
+img{
+    width: 400px;
+}
+div .product {
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.308);
+    border-radius: 10px;
+    height: 520px;
+    width: 420px;
+    margin: 90px;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+div .product:hover{
+    background-color: rgba(104, 104, 104, 0.308);
+}
+.products{
+    background-color: none;
+    width: 1872px;
+    height: 700px;
+    display: flex;
+    margin: 0px;
+    padding-left: 30px;
+}
+
+p{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}

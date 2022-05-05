@@ -1,0 +1,16 @@
+.Main{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: ivory;
+    width: 1700px;
+    text-align: center;
+    padding-top: 200px;
+}
+img{
+    width: 1000px;
+}
+section p{
+    font-size: 40px;
+    color: ivory;
+    margin-bottom: 300px;
+}

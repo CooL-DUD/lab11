@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.content{
+  background-image: url(./img/Computer-Programmer.jpg);
+  background-size: cover;
+  background-color: #34495ec5;
+  background-blend-mode: multiply;
+  height: 1000px;
+}

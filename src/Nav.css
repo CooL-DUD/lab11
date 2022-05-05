@@ -1,0 +1,12 @@
+.Nav{
+    position: absolute;
+    left: 300px;
+    top: 30px;
+
+}
+a{
+    color: ivory;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 80px;
+    text-decoration: wavy;
+}
